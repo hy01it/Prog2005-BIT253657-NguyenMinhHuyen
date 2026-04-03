@@ -1,4 +1,4 @@
-from Ex04 import Book
+from Script34 import Book
 books = [
     Book("Book 1", 30000),
     Book("Book 2", 50000),
