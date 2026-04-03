@@ -1,0 +1,4 @@
+PI = 3.14
+r = float(input("Nhập bán kính: "))
+chu_vi = 2 * PI * r
+print("Chu vi hình tròn:", chu_vi)
